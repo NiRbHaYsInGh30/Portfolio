@@ -24,16 +24,16 @@ export const ContactUs = () => {
     const templateParams = {
       from_name: formData.email,
       user_name: formData.name,
-      to_name: contactConfig.YOUR_EMAIL,
+      to_name: "nirbhay.sw@gmail.com",
       message: formData.message,
     };
 
     emailjs
       .send(
-        contactConfig.YOUR_SERVICE_ID,
-        contactConfig.YOUR_TEMPLATE_ID,
+        "service_vb3syqo",
+        "template_ic4ewhe",
         templateParams,
-        contactConfig.YOUR_USER_ID
+        "DOzaNFhBLeH0XrgQ9"
       )
       .then(
         (result) => {
