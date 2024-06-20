@@ -1,7 +1,7 @@
 const logotext = "Home";
 const meta = {
-    title: "Nirbhay singh",
-    description: "Hey There i am Nirbhay a software developer",
+  title: "Nirbhay singh",
+  description: "Hey There i am Nirbhay a software developer",
 };
 
 const introdata = {
@@ -39,30 +39,31 @@ const dataabout = {
 //     },
 // ];
 
-const skills = [{
-        name: "Python",
-        value: 50,
-    },
-    {
-        name: "Java",
-        value: 65,
-    },
-    {
-        name: "Javascript",
-        value: 70,
-    },
-    {
-        name: "React",
-        value: 60,
-    },
-    // {
-    //     name: "",
-    //     value: 85,
-    // },
-    // {
-    //     name: "",
-    //     value: 85,
-    // },
+const skills = [
+  {
+    name: "Python",
+    value: 50,
+  },
+  {
+    name: "Java",
+    value: 65,
+  },
+  {
+    name: "Javascript",
+    value: 70,
+  },
+  {
+    name: "React",
+    value: 60,
+  },
+  // {
+  //     name: "",
+  //     value: 85,
+  // },
+  // {
+  //     name: "",
+  //     value: 85,
+  // },
 ];
 
 const services = [
@@ -78,36 +79,43 @@ const services = [
   },
 ];
 
-const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    }
+const dataportfolio = [
+  {
+    img: "https://picsum.photos/400/?grayscale",
+    description:
+      "The wisdom of life consists in the elimination of non-essentials.",
+    link: "#",
+  },
+  {
+    img: "https://picsum.photos/400/800/?grayscale",
+    description:
+      "The wisdom of life consists in the elimination of non-essentials.",
+    link: "#",
+  },
+  {
+    img: "https://picsum.photos/400/?grayscale",
+    description:
+      "The wisdom of life consists in the elimination of non-essentials.",
+    link: "#",
+  },
+  {
+    img: "https://picsum.photos/400/600/?grayscale",
+    description:
+      "The wisdom of life consists in the elimination of non-essentials.",
+    link: "#",
+  },
+  {
+    img: "https://picsum.photos/400/300/?grayscale",
+    description:
+      "The wisdom of life consists in the elimination of non-essentials.",
+    link: "#",
+  },
+  {
+    img: "https://picsum.photos/400/700/?grayscale",
+    description:
+      "The wisdom of life consists in the elimination of non-essentials.",
+    link: "#",
+  },
 ];
 
 const contactConfig = {
@@ -125,18 +133,18 @@ const contactConfig = {
 const socialprofils = {
   github: "https://github.com/NiRbHaYsInGh30",
   //   facebook: "https://facebook.com",
-  linkedin: "www.linkedin.com/in/nirbhaysingh30",
+  linkedin: "https://www.linkedin.com/in/nirbhaysingh30",
   //   twitter: "https://twitter.com",
 };
 export {
-    meta,
-    dataabout,
-    dataportfolio,
-    // worktimeline,
-    skills,
-    services,
-    introdata,
-    contactConfig,
-    socialprofils,
-    logotext,
+  meta,
+  dataabout,
+  dataportfolio,
+  // worktimeline,
+  skills,
+  services,
+  introdata,
+  contactConfig,
+  socialprofils,
+  logotext,
 };
