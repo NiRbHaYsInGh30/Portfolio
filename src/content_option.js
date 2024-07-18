@@ -82,7 +82,7 @@ const dataportfolio = [
   {
     img: "https://th.bing.com/th/id/OIG3.NxU.dN112S06YKQOogfe?pid=ImgGn",
     description:
-      "Made an Background organzing script in python which helps you to organize your data files in particular folders.",
+      "Made an Background organizing script in python which helps you to organize your data files in particular folders.",
     link: "https://github.com/NiRbHaYsInGh30/bgFileorganizer",
   },
   {
