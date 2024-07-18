@@ -85,12 +85,7 @@ const dataportfolio = [
       "Made an Background organizing script in python which helps you to organize your data files in particular folders.",
     link: "https://github.com/NiRbHaYsInGh30/bgFileorganizer",
   },
-  {
-    img: "https://picsum.photos/400/800/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
+
   {
     img: "https://picsum.photos/400/?grayscale",
     description:
