@@ -45,7 +45,7 @@ const skills = [{
     },
     {
         name: "Java",
-        value: 65,
+        value: 60,
     },
     {
         name: "Javascript",
