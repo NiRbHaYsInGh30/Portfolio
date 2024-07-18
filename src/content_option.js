@@ -80,8 +80,8 @@ const services = [
 
 const dataportfolio = [{
         img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        description: "Made a background organizer script with python in which it will organize your files into particular folder",
+        link: "https://github.com/NiRbHaYsInGh30/bgFileorganizer.git",
     },
     {
         img: "https://picsum.photos/400/800/?grayscale",
