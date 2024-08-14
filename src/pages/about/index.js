@@ -39,12 +39,12 @@ export const About = () => {
        
         {/* //work exp */}
 
-        {/* <Row className=" sec_sp"> */}
-          {/* <Col lg="5">
+        {/* <Row className=" sec_sp">
+          <Col lg="5">
             <h3 className="color_sec py-4">Work Timline</h3>
-          </Col> */}
-          {/* <Col lg="7"> */}
-            {/* <table className="table caption-top">
+          </Col>
+          <Col lg="7">
+            <table className="table caption-top">
               <tbody>
                 {worktimeline.map((data, i) => {
                   return (
@@ -56,9 +56,9 @@ export const About = () => {
                   );
                 })}
               </tbody>
-            </table> */}
-          {/* </Col> */}
-        {/* </Row> */}
+            </table> 
+          </Col>
+        </Row> */}
         <Row className="sec_sp">
           <Col lg="5">
             <h3 className="color_sec py-4">Skills</h3>
@@ -82,7 +82,7 @@ export const About = () => {
               );
             })}
           </Col>
-        </Row>
+        </Row> 
         <Row className="sec_sp">
           <Col lang="5">
             <h3 className="color_sec py-4">Services</h3>

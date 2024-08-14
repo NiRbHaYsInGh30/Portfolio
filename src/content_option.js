@@ -78,36 +78,28 @@ const services = [
   },
 ];
 
-const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "Made a background organizer script with python in which it will organize your files into particular folder",
-        link: "https://github.com/NiRbHaYsInGh30/bgFileorganizer.git",
-    },
-    {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "Some python Scripts for doing automation ",
-        link: "https://github.com/NiRbHaYsInGh30/PythonAutomationScripts.git",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    }
+const dataportfolio = [
+  {
+    img: "https://www.shutterstock.com/shutterstock/photos/2128036841/display_1500/stock-vector--s-retro-vaporwave-aesthetics-digital-screen-user-interface-cute-old-computer-ui-elements-2128036841.jpg",
+    description:
+      "Made a background organizer script with python in which it will organize your files into particular folder",
+    link: "https://github.com/NiRbHaYsInGh30/bgFileorganizer.git",
+  },
+  {
+    img: "https://img.freepik.com/free-vector/developer-laptop-computer-with-open-robotic-soft-open-automation-architecture-open-source-robotics-soft-free-development-concept_335657-1900.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1722643200&semt=ais_hybrid",
+    description: "Some python Scripts for doing automation ",
+    link: "https://github.com/NiRbHaYsInGh30/PythonAutomationScripts.git",
+  },
+  {
+    img: "https://cdni.iconscout.com/illustration/premium/thumb/taking-notes-on-paper-illustration-download-in-svg-png-gif-file-formats--handwriting-mind-mapping-note-pen-and-people-pack-illustrations-6868598.png?f=webp",
+    description: "Notes of Dsa and other stuff ",
+    link: "https://github.com/NiRbHaYsInGh30/Notes.git",
+  },
+  {
+    img: "https://c8.alamy.com/comp/2E9BB6G/flat-cartoon-characters-family-budget-finance-management-planvector-illustration-concept-2E9BB6G.jpg",
+    description: "A personal Finance Tracker Currently in progress ",
+    link: "https://github.com/NiRbHaYsInGh30/PersonalFinanceTracker.git",
+  },
 ];
 
 const contactConfig = {
